@@ -64,8 +64,9 @@ margin-right: 10px;
 }
 
    .dsmovie-card {
-  width: 360px;
-  height: 400px;
+  width: 100%;
+  
+
   
 }
 
@@ -94,7 +95,7 @@ margin-right: 10px;
 }
 
 .dsmovie-btn, .dsmovie-btn:hover{
-    width: 180px;
+    width: 100px;
     height: 40px;
     background-color: var(--color-primary);
     color:var(--white);
